@@ -1,0 +1,6 @@
+**/credetials.json
+**/*.pem
+**/secret.py
+venv/
+ZZZ_STUFF/
+.idea/
